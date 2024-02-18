@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there 👋, I'm Nik a Learner.........
 
-💬 Ask me about: Data Science
+💬 Ask me about: Data Engineering
 
 📫 How to reach me: itzs.nik@gmail.com
 
